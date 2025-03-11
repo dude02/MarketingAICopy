@@ -16,8 +16,7 @@ Our project is focused on creating an AI-powered marketing copy generator. With 
 
 ## Authors
 
-- Lidiya Yohannes
-- Ermias Bahru
+- Mohammed Ahmed
 
 ## Demo
 
